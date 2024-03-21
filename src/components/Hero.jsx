@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/vishvender25", "_blank")
+            window.open("https://github.com/vishvender25/swe-project-infosnap", "_blank")
           }
           className='bg-gray-800 px-3 py-1.5 rounded-xl text-white'
         >
