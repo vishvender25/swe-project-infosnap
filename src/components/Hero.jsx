@@ -21,7 +21,7 @@ const Hero = () => {
 
       <h1 className='head_text '>
         Summarize Articles with <br className='max-md:hidden' />
-        <span className=''>OpenAI GPT-4</span>
+        <span className=''>Info Snap</span>
       </h1>
       <h2 className='desc text-white'>
         Simplify your reading with Infosnap, an open-source article summarizer
